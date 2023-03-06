@@ -31,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/reinaldo-vombo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldo-vombo&show_icons=true&theme=omni" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-vombo&&theme=omni&layout=compact&langs_count-16" />
 </a>
@@ -49,5 +49,5 @@
   
 </div>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/reinaldo-vombo)
 
